@@ -38,5 +38,5 @@ return {
       SHOWPLAYERSOPTIONS=2 
     },
     enabled=true 
-  } 
+  }
 }
